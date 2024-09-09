@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá! Eu sou o Vinicius Almeida.<br><br>- 🔭 Estou a procura de um estagio.<br>- 🌱 aprendendo Fullstack 
+# 💫 Olá! Eu sou o Vinicius Almeida. 
+<br>- 🔭 Estou a procura de um estagio.<br>- 🌱 aprendendo Fullstack 
 
 
 ## 🌐 Socials:
