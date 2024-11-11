@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-- 🔭 Estou a procura de um estagio.<br> -🌱 aprendendo Fullstack
+🔭 Estou a procura de um estagio.<br>🌱 aprendendo Fullstack
 
 
 ## 🌐 Socials:
